@@ -1,0 +1,1 @@
+### A glossary of technical terms that I encounter in my readings. I try to put each concept into simplified terms while keeping overall purpose clear (ex. explain the purpose of a transformer, not the math behind it). Hopefully these are helpful for others trying to understand these papers as well.
